@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://soldrift-scam-warning.github.io/solana-scam-osint-report/sitemap.xml
+Sitemap: https://soldrift-scam-warning.github.io/solana-scam-osint-report/image-sitemap.xml
