@@ -1,57 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
   <url>
     <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/ZOYJbroSUBc/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Soldrift GitHub Main Profile Links to Telegram @devbeast5775 — OSINT Evidence</video:title>
-      <video:description>Actual YouTube record for the main Soldrift GitHub profile path and its visible link to Telegram @devbeast5775. This video is used as a primary identity-mapping exhibit for the Soldrift / devbeast5775 / hodlwarden OSINT warning archive.</video:description>
+      <video:description>OSINT video record showing the Soldrift GitHub main profile path and its visible connection to Telegram @devbeast5775. This video supports the Soldrift / devbeast5775 / hodlwarden identity-cluster warning archive.</video:description>
       <video:player_loc>https://www.youtube.com/embed/ZOYJbroSUBc</video:player_loc>
     </video:video>
-  </url>
-  <url>
-    <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/l6R8wUGtuJE/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Soldrift / Hodlwarden Pump.fun Bundler Overlap — GitHub OSINT Evidence</video:title>
-      <video:description>Actual YouTube record focused on Soldrift / Hodlwarden Pump.fun bundler overlap and related GitHub repository context. This exhibit supports the Solana bot, bundler, private-key exposure, wallet-access, and malicious-backdoor risk frame.</video:description>
+      <video:description>OSINT video record documenting Soldrift / Hodlwarden Pump.fun bundler overlap and related GitHub repository context. This video supports the Solana bot, bundler, wallet-access, private-key exposure, and malicious-backdoor risk frame.</video:description>
       <video:player_loc>https://www.youtube.com/embed/l6R8wUGtuJE</video:player_loc>
     </video:video>
-  </url>
-  <url>
-    <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/gH3bSk6BJAI/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Two GitHub Identities Same Telegram Contact Path — OSINT Evidence</video:title>
-      <video:description>Actual YouTube record comparing two GitHub identity paths that lead toward the same Telegram contact route. This exhibit supports the alias-cluster concern linking Soldrift, devbeast5775, hodlwarden, and related developer-account infrastructure.</video:description>
+      <video:description>OSINT video record comparing two GitHub identity paths that appear to lead toward the same Telegram contact route. This video supports the alias-cluster concern involving Soldrift, devbeast5775, hodlwarden, and related developer-account infrastructure.</video:description>
       <video:player_loc>https://www.youtube.com/embed/gH3bSk6BJAI</video:player_loc>
     </video:video>
-  </url>
-  <url>
-    <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/PjnaKTgwo1Q/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Hodlwarden GitHub Contact Path to Telegram @devbeast5775 — OSINT Evidence</video:title>
-      <video:description>Actual YouTube record documenting the Hodlwarden GitHub contact path and its connection to Telegram @devbeast5775. This exhibit explains why hodlwarden is indexed with Soldrift / devbeast5775 in the same public OSINT identity-cluster warning.</video:description>
+      <video:description>OSINT video record documenting the Hodlwarden GitHub contact path and its connection to Telegram @devbeast5775. This video explains why hodlwarden is indexed with Soldrift and devbeast5775 in the same public OSINT identity-cluster warning.</video:description>
       <video:player_loc>https://www.youtube.com/embed/PjnaKTgwo1Q</video:player_loc>
     </video:video>
-  </url>
-  <url>
-    <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/-tY6BRqoFDk/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Soldrift / Hodlwarden / devbeast5775 Scam Warning — GitHub, Telegram, Solana Bot OSINT Evidence</video:title>
-      <video:description>Actual YouTube record for the broader Soldrift / Hodlwarden / devbeast5775 scam-warning archive, combining GitHub, Telegram, and Solana bot-risk evidence into a public Web3 OSINT safety notice.</video:description>
+      <video:description>OSINT video record for the broader Soldrift / Hodlwarden / devbeast5775 scam-warning archive, combining GitHub, Telegram, Solana bot-risk, wallet-drainer, phishing, and backdoor concern evidence into one public Web3 safety notice.</video:description>
       <video:player_loc>https://www.youtube.com/embed/-tY6BRqoFDk</video:player_loc>
     </video:video>
-  </url>
-  <url>
-    <loc>https://soldrift-scam-warning.github.io/solana-scam-osint-report/</loc>
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/yKKZ5L7vgW8/hqdefault.jpg</video:thumbnail_loc>
       <video:title>This Was Not a Simple Scam — Soldrift / Hodlwarden Credibility Infrastructure Fraud</video:title>
-      <video:description>Actual YouTube overview framing the case as a credibility-infrastructure fraud concern, covering developer branding, public-profile trust signals, GitHub and Telegram identity paths, and the broader suspected organized crypto cybercrime-network warning.</video:description>
+      <video:description>OSINT overview video framing the case as a credibility-infrastructure fraud concern involving developer branding, public-profile trust signals, GitHub and Telegram identity paths, and a suspected organized crypto cybercrime-network warning.</video:description>
       <video:player_loc>https://www.youtube.com/embed/yKKZ5L7vgW8</video:player_loc>
     </video:video>
+
   </url>
 </urlset>
